@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-1342678977489773632
+--- !u!114 &-1476165564093387922
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,10 +20,10 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: default
+  m_Name: YellowMaterial
   m_Shader: {fileID: -6465566751694194690, guid: dd9d3d3c845d401478e3e9e81458162b,
     type: 3}
-  m_Parent: {fileID: 2100000, guid: 465e48a6f41e36c4fb0cf064611911b5, type: 2}
+  m_Parent: {fileID: 2100000, guid: aa048c06108009e47bc5e7cd57a2bd06, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
